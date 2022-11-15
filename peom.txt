@@ -1,6 +1,6 @@
 Several people can collaborate in 
-one project in Git. To track who make 
+one project in Git. from track who make 
 a specific change, we need to tell Git 
 our name and e-mail. At the command prompt, 
 enter the following commands, but change the name 
-and address to yours:
+and address from yours:
